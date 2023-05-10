@@ -1,0 +1,12 @@
+{
+	"name": "kafka-nodejs-demo",
+	"type": "module",
+	"scripts": {
+		"tuketici-1": "node tuketici-1.js",
+		"tuketici-2": "node tuketici-2.js",
+		"uretici": "node uretici.js"
+	},
+	"dependencies": {
+		"kafkajs": "^2.2.4"
+	}
+}
